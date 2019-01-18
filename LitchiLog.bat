@@ -1,0 +1,2 @@
+@python LitchiLog.py
+@pause
